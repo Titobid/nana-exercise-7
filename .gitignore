@@ -2,3 +2,6 @@
 build
 out
 .gradle*
+gradle/
+gradlew*
+.env

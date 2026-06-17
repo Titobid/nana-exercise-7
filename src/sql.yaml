@@ -41,3 +41,4 @@ services:
       - mysql
 volumes:
   mysql-data:
+    driver: local
